@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1605265287 source:d:\oopl lab\busmanagement\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+
+1646506018 source:c:\users\aman goswami\desktop\bus_management_system-main (1)\bus_management_system-main\busmanagementcode\main.cpp
+	<conio.h>
+	<cstdio>
+	<iostream>
+	<string.h>
+	<cstdlib>
+	<windows.h>
+
